@@ -1,10 +1,9 @@
 [
   {
-    "title": "Zale E-Comm Data Delayed",
-    "messageKey": "Zale E-Comm data is currently delayed. Please check again later.",
-    "type": "WARNING",
-    "entityIds": [ 1,4 ],
-    "validFrom": "2016/02/04 12:00 AM",
-    "validTo": "2016/02/04 5:00 PM"
+  "title": "System Maintenance",
+  "messageKey": "maintenance",
+  "type": "UNAVAILABLE",
+  "validFrom": "2015/06/08 12:00 AM",
+  "validTo": "2015/06/08 5:00 PM"
   }
 ]
